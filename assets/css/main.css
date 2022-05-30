@@ -220,8 +220,8 @@ input, select, textarea {
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #f7f7f7;
-			/* background-image: url("../../images/pattern.jpg"), url("../../images/pattern.jpg");
-			background-repeat:no-repeat, no-repeat; */
+			background-image: url("../../images/"), url("../../images/");
+			background-repeat:no-repeat, no-repeat;
 			background-size: 128px 128px, cover;
 
 			
